@@ -33,8 +33,11 @@ That’s not a burden. It’s a **superpower**.
 ## 📦 File Structure
 
 linkedlist/
+
 ├── linkedlist.h // Interface definition
+
 ├── linkedlist.c // Function implementations
+
 └── main.c // Example usage
 
 yaml
